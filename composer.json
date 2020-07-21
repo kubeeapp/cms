@@ -1,27 +1,27 @@
 {
-  "name": "roots/bedrock",
+  "name": "kubeeapp/kcms",
   "type": "project",
   "license": "MIT",
-  "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
-  "homepage": "https://roots.io/bedrock/",
+  "description": "KCMS boilerplate with modern development tools, easier configuration, and an improved folder structure",
+  "homepage": "https://kubee.ga/kcms/",
   "authors": [
     {
-      "name": "Scott Walkinshaw",
-      "email": "scott.walkinshaw@gmail.com",
-      "homepage": "https://github.com/swalkinshaw"
+      "name": "Romeo Covaci",
+      "email": "romeo.covaci@gmail.com",
+      "homepage": "https://github.com/romeocovaci"
     },
     {
-      "name": "Ben Word",
-      "email": "ben@benword.com",
-      "homepage": "https://github.com/retlehs"
+      "name": "Brand Li",
+      "email": "brandli.ro@gmail.com",
+      "homepage": "https://github.com/brand-li"
     }
   ],
   "keywords": [
-    "bedrock", "composer", "roots", "wordpress", "wp", "wp-config"
+    "kubeeapp", "composer", "kcms", "content management", "kubee", "vue"
   ],
   "support": {
-    "issues": "https://github.com/roots/bedrock/issues",
-    "forum": "https://discourse.roots.io/category/bedrock"
+    "issues": "https://github.com/roots/kcms/issues",
+    "forum": "https://discourse.kubee.ga/category/kcms"
   },
   "repositories": [
     {
@@ -35,9 +35,9 @@
     "composer/installers": "^1.8",
     "vlucas/phpdotenv": "^4.1.5",
     "oscarotero/env": "^2.0",
-    "roots/bedrock-autoloader": "^1.0",
-    "roots/wordpress": "5.4.1",
-    "roots/wp-config": "1.0.0",
+    "kubeeapp/kcms-autoloader": "^1.0",
+    "roots/wordpress": "5.4.2",
+    "kubeeapp/cms-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0"
   },
   "require-dev": {
